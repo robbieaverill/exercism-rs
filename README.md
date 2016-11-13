@@ -1,6 +1,6 @@
 # robbieaverill/exercism-rust
 
-This is my attempts at learning Rust using [exercism.io](http://exercism.io).
+These are my solutions using [Rust](https://www.rust-lang.org) for [exercism.io](http://exercism.io) challenges.
 
 1. hello-world
 2. leap
@@ -8,3 +8,7 @@ This is my attempts at learning Rust using [exercism.io](http://exercism.io).
 4. gigasecond
 5. bob
 6. beer-song
+
+## Related
+
+* [`robbieaverill/euler-rs`](https://github.com/robbieaverill/euler-rs)
