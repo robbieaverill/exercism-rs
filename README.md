@@ -9,6 +9,7 @@ These are my solutions using [Rust](https://www.rust-lang.org) for [exercism.io]
 5. bob
 6. beer-song
 7. difference-of-squares
+8. grains
 
 ## Related
 
